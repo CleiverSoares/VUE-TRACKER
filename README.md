@@ -1,4 +1,4 @@
-# Projeto Vue 3 com Composition API
+# Gestor de Implantação Brasil.
 
 Bem-vindo ao **Projeto Desenvolvido com Vue.js 3** utilizando a *Composition API*! Neste repositório, você encontrará todos os arquivos e recursos necessários para executar e explorar este projeto.
 
